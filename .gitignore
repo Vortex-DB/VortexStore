@@ -1,4 +1,5 @@
 build/
+Testing/
 build_debug/
 build_release
 **/CMakeCache.txt
