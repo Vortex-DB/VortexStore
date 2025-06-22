@@ -1,4 +1,5 @@
 build/
+CMakeFiles/
 Testing/
 build_debug/
 build_release
